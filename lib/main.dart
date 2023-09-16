@@ -37,23 +37,23 @@ class HomeScreen extends StatelessWidget {
         child: ListView(
           children: const [
             ListTile(
-              leading: Icon(Icons.badge),
+              leading: Icon(Icons.shopping_bag),
               title: Text("Computer"),
             ),
             ListTile(
-              leading: Icon(Icons.badge),
+              leading: Icon(Icons.shopping_bag),
               title: Text("Laptop"),
             ),
             ListTile(
-              leading: Icon(Icons.badge),
+              leading: Icon(Icons.shopping_bag),
               title: Text("Fridge"),
             ),
             ListTile(
-              leading: Icon(Icons.badge),
+              leading: Icon(Icons.shopping_bag),
               title: Text("Monitor"),
             ),
             ListTile(
-              leading: Icon(Icons.badge),
+              leading: Icon(Icons.shopping_bag),
               title: Text("Fan"),
             ),
           ],
